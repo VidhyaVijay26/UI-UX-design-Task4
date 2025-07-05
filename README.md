@@ -59,3 +59,4 @@ This prototype is a conceptual design created for learning purposes. All icons, 
 
 ## 🙌 Created by
 **Vidhya Vijay** 
+[See live using this link](https://www.figma.com/proto/VKo1dCRsGE9ZaDb139FY6b/Fitness-App-Mobile-?node-id=1-2&p=f&t=2Fi2S9G80wjFHxho-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
